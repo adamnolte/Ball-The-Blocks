@@ -1,4 +1,4 @@
-# Ball-The-Blocks
+# Ball The Blocks libGDX Project
 Cross Platform mobile game source files by Redbeard Studios
 
 Google Play: https://play.google.com/store/apps/details?id=com.redbeardstudios.balltheblocks.android&hl=en
